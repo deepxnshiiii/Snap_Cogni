@@ -1,5 +1,3 @@
- Sticky Selected Works
-
 This project is a modern and visually appealing web layout featuring a sticky navigation bar, a highlighted "Selected Works" section, and a scrollable showcase of projects. The design focuses on clean typography and a structured layout to enhance readability and user experience.
 
  Features
