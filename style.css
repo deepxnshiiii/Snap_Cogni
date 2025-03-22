@@ -14,10 +14,13 @@ body {
 }
 
 p {
-    background-color: pink;
-    max-width: 80%;
+    /* background-color: pink; */
+    font-size: 20px;
+    max-width: 30%;
     /* Limits the width so it doesn't stretch */
     margin: 0px auto;
+    position: absolute;
+    right: 120px;
     /* Centers it */
     padding: 100px 10px 10px 10px;
 }
@@ -27,7 +30,7 @@ p {
     justify-content: space-between;
     align-items: center;
     width: 100%;
-    padding: 20px 40px;
+    padding: 20px 180px 20px 40px;
     position: fixed;
     background: white;
     z-index: 1000;
@@ -105,7 +108,7 @@ p {
     justify-content: center;
     align-items: center;
     overflow: hidden;
-    /* margin-top: 10px; */
+    margin-top: 100px;
 }
 
 #image7 {
